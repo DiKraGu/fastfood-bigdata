@@ -1,0 +1,19 @@
+# Données générées et fichiers temporaires Big Data
+data/*.jsonl
+data/*.parquet
+checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Système & IDE
+.DS_Store
+Thumbs.db
+.vscode/
