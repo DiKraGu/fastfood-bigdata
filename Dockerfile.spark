@@ -1,0 +1,18 @@
+FROM apache/spark:3.5.3
+
+USER root
+
+RUN pip install --no-cache-dir \
+    jupyterlab==4.0.13 \
+    delta-spark==3.2.0 \
+    graphframes==0.6 \
+    kafka-python==2.0.2 \
+    boto3==1.35.0
+
+RUN /opt/spark/bin/spark-shell \
+    --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3,io.delta:delta-spark_2.12:3.2.0,graphframes:graphframes:0.8.3-spark3.5-s_2.12,org.apache.hadoop:hadoop-aws:3.3.4,com.amazonaws:aws-java-sdk-bundle:1.12.262 \
+    -e ":quit" || true
+
+RUN find /root/.ivy2/jars -name "*.jar" -exec cp {} /opt/spark/jars/ \;
+
+WORKDIR /workspace
