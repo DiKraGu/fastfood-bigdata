@@ -1,0 +1,1602 @@
+[
+  {
+    "restaurant_id": "R-001",
+    "name": "FastFood Rabat #1",
+    "city": "Rabat",
+    "category": "pizza",
+    "latitude": 34.054801,
+    "longitude": -6.822858
+  },
+  {
+    "restaurant_id": "R-002",
+    "name": "FastFood Marrakech #2",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.66651,
+    "longitude": -7.971106
+  },
+  {
+    "restaurant_id": "R-003",
+    "name": "FastFood Tanger #3",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.771769,
+    "longitude": -5.796447
+  },
+  {
+    "restaurant_id": "R-004",
+    "name": "FastFood Casablanca #4",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.558872,
+    "longitude": -7.583836
+  },
+  {
+    "restaurant_id": "R-005",
+    "name": "FastFood Rabat #5",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.000887,
+    "longitude": -6.859914
+  },
+  {
+    "restaurant_id": "R-006",
+    "name": "FastFood Marrakech #6",
+    "city": "Marrakech",
+    "category": "tacos",
+    "latitude": 31.6595,
+    "longitude": -8.004035
+  },
+  {
+    "restaurant_id": "R-007",
+    "name": "FastFood Tanger #7",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.760117,
+    "longitude": -5.847927
+  },
+  {
+    "restaurant_id": "R-008",
+    "name": "FastFood Casablanca #8",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.585149,
+    "longitude": -7.561124
+  },
+  {
+    "restaurant_id": "R-009",
+    "name": "FastFood Rabat #9",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.010037,
+    "longitude": -6.878277
+  },
+  {
+    "restaurant_id": "R-010",
+    "name": "FastFood Marrakech #10",
+    "city": "Marrakech",
+    "category": "sushi",
+    "latitude": 31.611653,
+    "longitude": -7.968508
+  },
+  {
+    "restaurant_id": "R-011",
+    "name": "FastFood Tanger #11",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.7325,
+    "longitude": -5.835357
+  },
+  {
+    "restaurant_id": "R-012",
+    "name": "FastFood Casablanca #12",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.56925,
+    "longitude": -7.562642
+  },
+  {
+    "restaurant_id": "R-013",
+    "name": "FastFood Rabat #13",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 33.992395,
+    "longitude": -6.837457
+  },
+  {
+    "restaurant_id": "R-014",
+    "name": "FastFood Marrakech #14",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.637963,
+    "longitude": -7.976939
+  },
+  {
+    "restaurant_id": "R-015",
+    "name": "FastFood Tanger #15",
+    "city": "Tanger",
+    "category": "burger",
+    "latitude": 35.72789,
+    "longitude": -5.807622
+  },
+  {
+    "restaurant_id": "R-016",
+    "name": "FastFood Casablanca #16",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.579929,
+    "longitude": -7.594498
+  },
+  {
+    "restaurant_id": "R-017",
+    "name": "FastFood Rabat #17",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 34.04361,
+    "longitude": -6.802735
+  },
+  {
+    "restaurant_id": "R-018",
+    "name": "FastFood Marrakech #18",
+    "city": "Marrakech",
+    "category": "tacos",
+    "latitude": 31.604996,
+    "longitude": -7.996481
+  },
+  {
+    "restaurant_id": "R-019",
+    "name": "FastFood Tanger #19",
+    "city": "Tanger",
+    "category": "pizza",
+    "latitude": 35.745657,
+    "longitude": -5.79519
+  },
+  {
+    "restaurant_id": "R-020",
+    "name": "FastFood Casablanca #20",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.598883,
+    "longitude": -7.618281
+  },
+  {
+    "restaurant_id": "R-021",
+    "name": "FastFood Rabat #21",
+    "city": "Rabat",
+    "category": "marocain",
+    "latitude": 33.980925,
+    "longitude": -6.868514
+  },
+  {
+    "restaurant_id": "R-022",
+    "name": "FastFood Marrakech #22",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.619573,
+    "longitude": -8.015972
+  },
+  {
+    "restaurant_id": "R-023",
+    "name": "FastFood Tanger #23",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.793898,
+    "longitude": -5.800626
+  },
+  {
+    "restaurant_id": "R-024",
+    "name": "FastFood Casablanca #24",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.539203,
+    "longitude": -7.554252
+  },
+  {
+    "restaurant_id": "R-025",
+    "name": "FastFood Rabat #25",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.038422,
+    "longitude": -6.819157
+  },
+  {
+    "restaurant_id": "R-026",
+    "name": "FastFood Marrakech #26",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.629365,
+    "longitude": -8.011514
+  },
+  {
+    "restaurant_id": "R-027",
+    "name": "FastFood Tanger #27",
+    "city": "Tanger",
+    "category": "burger",
+    "latitude": 35.735661,
+    "longitude": -5.856157
+  },
+  {
+    "restaurant_id": "R-028",
+    "name": "FastFood Casablanca #28",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.572708,
+    "longitude": -7.580775
+  },
+  {
+    "restaurant_id": "R-029",
+    "name": "FastFood Rabat #29",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.042739,
+    "longitude": -6.828392
+  },
+  {
+    "restaurant_id": "R-030",
+    "name": "FastFood Marrakech #30",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.662393,
+    "longitude": -7.995514
+  },
+  {
+    "restaurant_id": "R-031",
+    "name": "FastFood Tanger #31",
+    "city": "Tanger",
+    "category": "burger",
+    "latitude": 35.758868,
+    "longitude": -5.822197
+  },
+  {
+    "restaurant_id": "R-032",
+    "name": "FastFood Casablanca #32",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.578217,
+    "longitude": -7.62669
+  },
+  {
+    "restaurant_id": "R-033",
+    "name": "FastFood Rabat #33",
+    "city": "Rabat",
+    "category": "tacos",
+    "latitude": 34.020917,
+    "longitude": -6.823996
+  },
+  {
+    "restaurant_id": "R-034",
+    "name": "FastFood Marrakech #34",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.607985,
+    "longitude": -7.963215
+  },
+  {
+    "restaurant_id": "R-035",
+    "name": "FastFood Tanger #35",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.746801,
+    "longitude": -5.843998
+  },
+  {
+    "restaurant_id": "R-036",
+    "name": "FastFood Casablanca #36",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.597602,
+    "longitude": -7.570367
+  },
+  {
+    "restaurant_id": "R-037",
+    "name": "FastFood Rabat #37",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 34.008977,
+    "longitude": -6.805456
+  },
+  {
+    "restaurant_id": "R-038",
+    "name": "FastFood Marrakech #38",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.63887,
+    "longitude": -7.979686
+  },
+  {
+    "restaurant_id": "R-039",
+    "name": "FastFood Tanger #39",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.776877,
+    "longitude": -5.857406
+  },
+  {
+    "restaurant_id": "R-040",
+    "name": "FastFood Casablanca #40",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.60998,
+    "longitude": -7.594667
+  },
+  {
+    "restaurant_id": "R-041",
+    "name": "FastFood Rabat #41",
+    "city": "Rabat",
+    "category": "marocain",
+    "latitude": 34.020296,
+    "longitude": -6.811534
+  },
+  {
+    "restaurant_id": "R-042",
+    "name": "FastFood Marrakech #42",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.647843,
+    "longitude": -7.97308
+  },
+  {
+    "restaurant_id": "R-043",
+    "name": "FastFood Tanger #43",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.768341,
+    "longitude": -5.820427
+  },
+  {
+    "restaurant_id": "R-044",
+    "name": "FastFood Casablanca #44",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.605174,
+    "longitude": -7.627144
+  },
+  {
+    "restaurant_id": "R-045",
+    "name": "FastFood Rabat #45",
+    "city": "Rabat",
+    "category": "pizza",
+    "latitude": 34.033235,
+    "longitude": -6.859554
+  },
+  {
+    "restaurant_id": "R-046",
+    "name": "FastFood Marrakech #46",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.593935,
+    "longitude": -7.984762
+  },
+  {
+    "restaurant_id": "R-047",
+    "name": "FastFood Tanger #47",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.746628,
+    "longitude": -5.832382
+  },
+  {
+    "restaurant_id": "R-048",
+    "name": "FastFood Casablanca #48",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.534659,
+    "longitude": -7.605145
+  },
+  {
+    "restaurant_id": "R-049",
+    "name": "FastFood Rabat #49",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.029399,
+    "longitude": -6.838138
+  },
+  {
+    "restaurant_id": "R-050",
+    "name": "FastFood Marrakech #50",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.623543,
+    "longitude": -8.017343
+  },
+  {
+    "restaurant_id": "R-051",
+    "name": "FastFood Tanger #51",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.725643,
+    "longitude": -5.847658
+  },
+  {
+    "restaurant_id": "R-052",
+    "name": "FastFood Casablanca #52",
+    "city": "Casablanca",
+    "category": "sushi",
+    "latitude": 33.590938,
+    "longitude": -7.596177
+  },
+  {
+    "restaurant_id": "R-053",
+    "name": "FastFood Rabat #53",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.02464,
+    "longitude": -6.827759
+  },
+  {
+    "restaurant_id": "R-054",
+    "name": "FastFood Marrakech #54",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.62043,
+    "longitude": -8.009754
+  },
+  {
+    "restaurant_id": "R-055",
+    "name": "FastFood Tanger #55",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.796495,
+    "longitude": -5.865059
+  },
+  {
+    "restaurant_id": "R-056",
+    "name": "FastFood Casablanca #56",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.602327,
+    "longitude": -7.629408
+  },
+  {
+    "restaurant_id": "R-057",
+    "name": "FastFood Rabat #57",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 33.982516,
+    "longitude": -6.814756
+  },
+  {
+    "restaurant_id": "R-058",
+    "name": "FastFood Marrakech #58",
+    "city": "Marrakech",
+    "category": "sushi",
+    "latitude": 31.635491,
+    "longitude": -7.94559
+  },
+  {
+    "restaurant_id": "R-059",
+    "name": "FastFood Tanger #59",
+    "city": "Tanger",
+    "category": "healthy",
+    "latitude": 35.727217,
+    "longitude": -5.796637
+  },
+  {
+    "restaurant_id": "R-060",
+    "name": "FastFood Casablanca #60",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.574927,
+    "longitude": -7.629187
+  },
+  {
+    "restaurant_id": "R-061",
+    "name": "FastFood Rabat #61",
+    "city": "Rabat",
+    "category": "pizza",
+    "latitude": 33.981676,
+    "longitude": -6.875478
+  },
+  {
+    "restaurant_id": "R-062",
+    "name": "FastFood Marrakech #62",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.631328,
+    "longitude": -7.972296
+  },
+  {
+    "restaurant_id": "R-063",
+    "name": "FastFood Tanger #63",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.73402,
+    "longitude": -5.815157
+  },
+  {
+    "restaurant_id": "R-064",
+    "name": "FastFood Casablanca #64",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.537078,
+    "longitude": -7.606959
+  },
+  {
+    "restaurant_id": "R-065",
+    "name": "FastFood Rabat #65",
+    "city": "Rabat",
+    "category": "tacos",
+    "latitude": 34.038311,
+    "longitude": -6.839645
+  },
+  {
+    "restaurant_id": "R-066",
+    "name": "FastFood Marrakech #66",
+    "city": "Marrakech",
+    "category": "sushi",
+    "latitude": 31.611565,
+    "longitude": -8.016849
+  },
+  {
+    "restaurant_id": "R-067",
+    "name": "FastFood Tanger #67",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.772096,
+    "longitude": -5.864456
+  },
+  {
+    "restaurant_id": "R-068",
+    "name": "FastFood Casablanca #68",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.533852,
+    "longitude": -7.580367
+  },
+  {
+    "restaurant_id": "R-069",
+    "name": "FastFood Rabat #69",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 34.018888,
+    "longitude": -6.872884
+  },
+  {
+    "restaurant_id": "R-070",
+    "name": "FastFood Marrakech #70",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.611596,
+    "longitude": -8.002379
+  },
+  {
+    "restaurant_id": "R-071",
+    "name": "FastFood Tanger #71",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.725816,
+    "longitude": -5.855689
+  },
+  {
+    "restaurant_id": "R-072",
+    "name": "FastFood Casablanca #72",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.611059,
+    "longitude": -7.572989
+  },
+  {
+    "restaurant_id": "R-073",
+    "name": "FastFood Rabat #73",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 34.010524,
+    "longitude": -6.845755
+  },
+  {
+    "restaurant_id": "R-074",
+    "name": "FastFood Marrakech #74",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.60464,
+    "longitude": -7.969049
+  },
+  {
+    "restaurant_id": "R-075",
+    "name": "FastFood Tanger #75",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.78117,
+    "longitude": -5.837434
+  },
+  {
+    "restaurant_id": "R-076",
+    "name": "FastFood Casablanca #76",
+    "city": "Casablanca",
+    "category": "pizza",
+    "latitude": 33.612005,
+    "longitude": -7.618194
+  },
+  {
+    "restaurant_id": "R-077",
+    "name": "FastFood Rabat #77",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.048042,
+    "longitude": -6.873232
+  },
+  {
+    "restaurant_id": "R-078",
+    "name": "FastFood Marrakech #78",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.641115,
+    "longitude": -7.967568
+  },
+  {
+    "restaurant_id": "R-079",
+    "name": "FastFood Tanger #79",
+    "city": "Tanger",
+    "category": "healthy",
+    "latitude": 35.757185,
+    "longitude": -5.871119
+  },
+  {
+    "restaurant_id": "R-080",
+    "name": "FastFood Casablanca #80",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.580535,
+    "longitude": -7.562545
+  },
+  {
+    "restaurant_id": "R-081",
+    "name": "FastFood Rabat #81",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.05878,
+    "longitude": -6.828109
+  },
+  {
+    "restaurant_id": "R-082",
+    "name": "FastFood Marrakech #82",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.636858,
+    "longitude": -7.999404
+  },
+  {
+    "restaurant_id": "R-083",
+    "name": "FastFood Tanger #83",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.749461,
+    "longitude": -5.837531
+  },
+  {
+    "restaurant_id": "R-084",
+    "name": "FastFood Casablanca #84",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.599446,
+    "longitude": -7.607937
+  },
+  {
+    "restaurant_id": "R-085",
+    "name": "FastFood Rabat #85",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.01013,
+    "longitude": -6.84187
+  },
+  {
+    "restaurant_id": "R-086",
+    "name": "FastFood Marrakech #86",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.592221,
+    "longitude": -8.006036
+  },
+  {
+    "restaurant_id": "R-087",
+    "name": "FastFood Tanger #87",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.764159,
+    "longitude": -5.870835
+  },
+  {
+    "restaurant_id": "R-088",
+    "name": "FastFood Casablanca #88",
+    "city": "Casablanca",
+    "category": "pizza",
+    "latitude": 33.558434,
+    "longitude": -7.597919
+  },
+  {
+    "restaurant_id": "R-089",
+    "name": "FastFood Rabat #89",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.047345,
+    "longitude": -6.867217
+  },
+  {
+    "restaurant_id": "R-090",
+    "name": "FastFood Marrakech #90",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.597406,
+    "longitude": -7.94788
+  },
+  {
+    "restaurant_id": "R-091",
+    "name": "FastFood Tanger #91",
+    "city": "Tanger",
+    "category": "healthy",
+    "latitude": 35.768146,
+    "longitude": -5.824089
+  },
+  {
+    "restaurant_id": "R-092",
+    "name": "FastFood Casablanca #92",
+    "city": "Casablanca",
+    "category": "sushi",
+    "latitude": 33.561477,
+    "longitude": -7.587269
+  },
+  {
+    "restaurant_id": "R-093",
+    "name": "FastFood Rabat #93",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 34.035716,
+    "longitude": -6.820768
+  },
+  {
+    "restaurant_id": "R-094",
+    "name": "FastFood Marrakech #94",
+    "city": "Marrakech",
+    "category": "tacos",
+    "latitude": 31.639575,
+    "longitude": -7.951946
+  },
+  {
+    "restaurant_id": "R-095",
+    "name": "FastFood Tanger #95",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.772832,
+    "longitude": -5.853714
+  },
+  {
+    "restaurant_id": "R-096",
+    "name": "FastFood Casablanca #96",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.586167,
+    "longitude": -7.629334
+  },
+  {
+    "restaurant_id": "R-097",
+    "name": "FastFood Rabat #97",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 33.985939,
+    "longitude": -6.827243
+  },
+  {
+    "restaurant_id": "R-098",
+    "name": "FastFood Marrakech #98",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.659856,
+    "longitude": -7.995182
+  },
+  {
+    "restaurant_id": "R-099",
+    "name": "FastFood Tanger #99",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.778366,
+    "longitude": -5.848408
+  },
+  {
+    "restaurant_id": "R-100",
+    "name": "FastFood Casablanca #100",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.601261,
+    "longitude": -7.563244
+  },
+  {
+    "restaurant_id": "R-101",
+    "name": "FastFood Rabat #101",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.024367,
+    "longitude": -6.819242
+  },
+  {
+    "restaurant_id": "R-102",
+    "name": "FastFood Marrakech #102",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.645471,
+    "longitude": -8.01299
+  },
+  {
+    "restaurant_id": "R-103",
+    "name": "FastFood Tanger #103",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.740668,
+    "longitude": -5.827229
+  },
+  {
+    "restaurant_id": "R-104",
+    "name": "FastFood Casablanca #104",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.573503,
+    "longitude": -7.629391
+  },
+  {
+    "restaurant_id": "R-105",
+    "name": "FastFood Rabat #105",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 33.998635,
+    "longitude": -6.823062
+  },
+  {
+    "restaurant_id": "R-106",
+    "name": "FastFood Marrakech #106",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.601595,
+    "longitude": -7.957592
+  },
+  {
+    "restaurant_id": "R-107",
+    "name": "FastFood Tanger #107",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.760074,
+    "longitude": -5.820174
+  },
+  {
+    "restaurant_id": "R-108",
+    "name": "FastFood Casablanca #108",
+    "city": "Casablanca",
+    "category": "pizza",
+    "latitude": 33.541319,
+    "longitude": -7.570902
+  },
+  {
+    "restaurant_id": "R-109",
+    "name": "FastFood Rabat #109",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.002071,
+    "longitude": -6.872961
+  },
+  {
+    "restaurant_id": "R-110",
+    "name": "FastFood Marrakech #110",
+    "city": "Marrakech",
+    "category": "tacos",
+    "latitude": 31.635392,
+    "longitude": -7.988581
+  },
+  {
+    "restaurant_id": "R-111",
+    "name": "FastFood Tanger #111",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.765438,
+    "longitude": -5.864625
+  },
+  {
+    "restaurant_id": "R-112",
+    "name": "FastFood Casablanca #112",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.549166,
+    "longitude": -7.617673
+  },
+  {
+    "restaurant_id": "R-113",
+    "name": "FastFood Rabat #113",
+    "city": "Rabat",
+    "category": "pizza",
+    "latitude": 34.057646,
+    "longitude": -6.835455
+  },
+  {
+    "restaurant_id": "R-114",
+    "name": "FastFood Marrakech #114",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.614568,
+    "longitude": -7.981268
+  },
+  {
+    "restaurant_id": "R-115",
+    "name": "FastFood Tanger #115",
+    "city": "Tanger",
+    "category": "healthy",
+    "latitude": 35.744668,
+    "longitude": -5.812889
+  },
+  {
+    "restaurant_id": "R-116",
+    "name": "FastFood Casablanca #116",
+    "city": "Casablanca",
+    "category": "sushi",
+    "latitude": 33.609483,
+    "longitude": -7.551798
+  },
+  {
+    "restaurant_id": "R-117",
+    "name": "FastFood Rabat #117",
+    "city": "Rabat",
+    "category": "tacos",
+    "latitude": 34.034066,
+    "longitude": -6.85036
+  },
+  {
+    "restaurant_id": "R-118",
+    "name": "FastFood Marrakech #118",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.601282,
+    "longitude": -7.966021
+  },
+  {
+    "restaurant_id": "R-119",
+    "name": "FastFood Tanger #119",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.72605,
+    "longitude": -5.857671
+  },
+  {
+    "restaurant_id": "R-120",
+    "name": "FastFood Casablanca #120",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.549034,
+    "longitude": -7.626128
+  },
+  {
+    "restaurant_id": "R-121",
+    "name": "FastFood Rabat #121",
+    "city": "Rabat",
+    "category": "tacos",
+    "latitude": 33.996518,
+    "longitude": -6.836383
+  },
+  {
+    "restaurant_id": "R-122",
+    "name": "FastFood Marrakech #122",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.596774,
+    "longitude": -7.95153
+  },
+  {
+    "restaurant_id": "R-123",
+    "name": "FastFood Tanger #123",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.791982,
+    "longitude": -5.86516
+  },
+  {
+    "restaurant_id": "R-124",
+    "name": "FastFood Casablanca #124",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.554944,
+    "longitude": -7.597106
+  },
+  {
+    "restaurant_id": "R-125",
+    "name": "FastFood Rabat #125",
+    "city": "Rabat",
+    "category": "marocain",
+    "latitude": 34.013651,
+    "longitude": -6.866135
+  },
+  {
+    "restaurant_id": "R-126",
+    "name": "FastFood Marrakech #126",
+    "city": "Marrakech",
+    "category": "sushi",
+    "latitude": 31.621119,
+    "longitude": -7.952578
+  },
+  {
+    "restaurant_id": "R-127",
+    "name": "FastFood Tanger #127",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.764337,
+    "longitude": -5.839522
+  },
+  {
+    "restaurant_id": "R-128",
+    "name": "FastFood Casablanca #128",
+    "city": "Casablanca",
+    "category": "pizza",
+    "latitude": 33.584135,
+    "longitude": -7.577324
+  },
+  {
+    "restaurant_id": "R-129",
+    "name": "FastFood Rabat #129",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 34.054268,
+    "longitude": -6.816108
+  },
+  {
+    "restaurant_id": "R-130",
+    "name": "FastFood Marrakech #130",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.597819,
+    "longitude": -8.001771
+  },
+  {
+    "restaurant_id": "R-131",
+    "name": "FastFood Tanger #131",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.795307,
+    "longitude": -5.811998
+  },
+  {
+    "restaurant_id": "R-132",
+    "name": "FastFood Casablanca #132",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.544955,
+    "longitude": -7.554663
+  },
+  {
+    "restaurant_id": "R-133",
+    "name": "FastFood Rabat #133",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.032453,
+    "longitude": -6.8231
+  },
+  {
+    "restaurant_id": "R-134",
+    "name": "FastFood Marrakech #134",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.637949,
+    "longitude": -7.944349
+  },
+  {
+    "restaurant_id": "R-135",
+    "name": "FastFood Tanger #135",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.752447,
+    "longitude": -5.803209
+  },
+  {
+    "restaurant_id": "R-136",
+    "name": "FastFood Casablanca #136",
+    "city": "Casablanca",
+    "category": "sushi",
+    "latitude": 33.607358,
+    "longitude": -7.567424
+  },
+  {
+    "restaurant_id": "R-137",
+    "name": "FastFood Rabat #137",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 33.986539,
+    "longitude": -6.807025
+  },
+  {
+    "restaurant_id": "R-138",
+    "name": "FastFood Marrakech #138",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.630564,
+    "longitude": -7.97657
+  },
+  {
+    "restaurant_id": "R-139",
+    "name": "FastFood Tanger #139",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.781987,
+    "longitude": -5.843507
+  },
+  {
+    "restaurant_id": "R-140",
+    "name": "FastFood Casablanca #140",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.596364,
+    "longitude": -7.591001
+  },
+  {
+    "restaurant_id": "R-141",
+    "name": "FastFood Rabat #141",
+    "city": "Rabat",
+    "category": "tacos",
+    "latitude": 34.033298,
+    "longitude": -6.873179
+  },
+  {
+    "restaurant_id": "R-142",
+    "name": "FastFood Marrakech #142",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.623531,
+    "longitude": -7.94747
+  },
+  {
+    "restaurant_id": "R-143",
+    "name": "FastFood Tanger #143",
+    "city": "Tanger",
+    "category": "healthy",
+    "latitude": 35.754491,
+    "longitude": -5.79711
+  },
+  {
+    "restaurant_id": "R-144",
+    "name": "FastFood Casablanca #144",
+    "city": "Casablanca",
+    "category": "marocain",
+    "latitude": 33.561191,
+    "longitude": -7.605581
+  },
+  {
+    "restaurant_id": "R-145",
+    "name": "FastFood Rabat #145",
+    "city": "Rabat",
+    "category": "marocain",
+    "latitude": 34.030925,
+    "longitude": -6.810756
+  },
+  {
+    "restaurant_id": "R-146",
+    "name": "FastFood Marrakech #146",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.650699,
+    "longitude": -7.949699
+  },
+  {
+    "restaurant_id": "R-147",
+    "name": "FastFood Tanger #147",
+    "city": "Tanger",
+    "category": "pizza",
+    "latitude": 35.736568,
+    "longitude": -5.800335
+  },
+  {
+    "restaurant_id": "R-148",
+    "name": "FastFood Casablanca #148",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.563945,
+    "longitude": -7.62607
+  },
+  {
+    "restaurant_id": "R-149",
+    "name": "FastFood Rabat #149",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 33.98328,
+    "longitude": -6.826151
+  },
+  {
+    "restaurant_id": "R-150",
+    "name": "FastFood Marrakech #150",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.668027,
+    "longitude": -7.960496
+  },
+  {
+    "restaurant_id": "R-151",
+    "name": "FastFood Tanger #151",
+    "city": "Tanger",
+    "category": "pizza",
+    "latitude": 35.787433,
+    "longitude": -5.846504
+  },
+  {
+    "restaurant_id": "R-152",
+    "name": "FastFood Casablanca #152",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.601229,
+    "longitude": -7.587107
+  },
+  {
+    "restaurant_id": "R-153",
+    "name": "FastFood Rabat #153",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.053336,
+    "longitude": -6.849525
+  },
+  {
+    "restaurant_id": "R-154",
+    "name": "FastFood Marrakech #154",
+    "city": "Marrakech",
+    "category": "sushi",
+    "latitude": 31.625257,
+    "longitude": -7.992044
+  },
+  {
+    "restaurant_id": "R-155",
+    "name": "FastFood Tanger #155",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.779017,
+    "longitude": -5.850364
+  },
+  {
+    "restaurant_id": "R-156",
+    "name": "FastFood Casablanca #156",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.605818,
+    "longitude": -7.597899
+  },
+  {
+    "restaurant_id": "R-157",
+    "name": "FastFood Rabat #157",
+    "city": "Rabat",
+    "category": "tacos",
+    "latitude": 34.037608,
+    "longitude": -6.807429
+  },
+  {
+    "restaurant_id": "R-158",
+    "name": "FastFood Marrakech #158",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.656085,
+    "longitude": -7.982677
+  },
+  {
+    "restaurant_id": "R-159",
+    "name": "FastFood Tanger #159",
+    "city": "Tanger",
+    "category": "burger",
+    "latitude": 35.791861,
+    "longitude": -5.847309
+  },
+  {
+    "restaurant_id": "R-160",
+    "name": "FastFood Casablanca #160",
+    "city": "Casablanca",
+    "category": "pizza",
+    "latitude": 33.602323,
+    "longitude": -7.59364
+  },
+  {
+    "restaurant_id": "R-161",
+    "name": "FastFood Rabat #161",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.027287,
+    "longitude": -6.849296
+  },
+  {
+    "restaurant_id": "R-162",
+    "name": "FastFood Marrakech #162",
+    "city": "Marrakech",
+    "category": "sushi",
+    "latitude": 31.662529,
+    "longitude": -7.988779
+  },
+  {
+    "restaurant_id": "R-163",
+    "name": "FastFood Tanger #163",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.793868,
+    "longitude": -5.820416
+  },
+  {
+    "restaurant_id": "R-164",
+    "name": "FastFood Casablanca #164",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.586038,
+    "longitude": -7.625444
+  },
+  {
+    "restaurant_id": "R-165",
+    "name": "FastFood Rabat #165",
+    "city": "Rabat",
+    "category": "tacos",
+    "latitude": 34.046317,
+    "longitude": -6.801753
+  },
+  {
+    "restaurant_id": "R-166",
+    "name": "FastFood Marrakech #166",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.610174,
+    "longitude": -7.956056
+  },
+  {
+    "restaurant_id": "R-167",
+    "name": "FastFood Tanger #167",
+    "city": "Tanger",
+    "category": "healthy",
+    "latitude": 35.790848,
+    "longitude": -5.861078
+  },
+  {
+    "restaurant_id": "R-168",
+    "name": "FastFood Casablanca #168",
+    "city": "Casablanca",
+    "category": "sushi",
+    "latitude": 33.543414,
+    "longitude": -7.588729
+  },
+  {
+    "restaurant_id": "R-169",
+    "name": "FastFood Rabat #169",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.028117,
+    "longitude": -6.846442
+  },
+  {
+    "restaurant_id": "R-170",
+    "name": "FastFood Marrakech #170",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.632208,
+    "longitude": -7.974455
+  },
+  {
+    "restaurant_id": "R-171",
+    "name": "FastFood Tanger #171",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.736369,
+    "longitude": -5.84952
+  },
+  {
+    "restaurant_id": "R-172",
+    "name": "FastFood Casablanca #172",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.607401,
+    "longitude": -7.61142
+  },
+  {
+    "restaurant_id": "R-173",
+    "name": "FastFood Rabat #173",
+    "city": "Rabat",
+    "category": "burger",
+    "latitude": 33.981392,
+    "longitude": -6.856693
+  },
+  {
+    "restaurant_id": "R-174",
+    "name": "FastFood Marrakech #174",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.594329,
+    "longitude": -8.019509
+  },
+  {
+    "restaurant_id": "R-175",
+    "name": "FastFood Tanger #175",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.789008,
+    "longitude": -5.863214
+  },
+  {
+    "restaurant_id": "R-176",
+    "name": "FastFood Casablanca #176",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.559044,
+    "longitude": -7.614406
+  },
+  {
+    "restaurant_id": "R-177",
+    "name": "FastFood Rabat #177",
+    "city": "Rabat",
+    "category": "pizza",
+    "latitude": 34.008485,
+    "longitude": -6.862834
+  },
+  {
+    "restaurant_id": "R-178",
+    "name": "FastFood Marrakech #178",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.666311,
+    "longitude": -7.977332
+  },
+  {
+    "restaurant_id": "R-179",
+    "name": "FastFood Tanger #179",
+    "city": "Tanger",
+    "category": "marocain",
+    "latitude": 35.747426,
+    "longitude": -5.810623
+  },
+  {
+    "restaurant_id": "R-180",
+    "name": "FastFood Casablanca #180",
+    "city": "Casablanca",
+    "category": "healthy",
+    "latitude": 33.60911,
+    "longitude": -7.570475
+  },
+  {
+    "restaurant_id": "R-181",
+    "name": "FastFood Rabat #181",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 33.987955,
+    "longitude": -6.875063
+  },
+  {
+    "restaurant_id": "R-182",
+    "name": "FastFood Marrakech #182",
+    "city": "Marrakech",
+    "category": "healthy",
+    "latitude": 31.619426,
+    "longitude": -7.982408
+  },
+  {
+    "restaurant_id": "R-183",
+    "name": "FastFood Tanger #183",
+    "city": "Tanger",
+    "category": "tacos",
+    "latitude": 35.740618,
+    "longitude": -5.858879
+  },
+  {
+    "restaurant_id": "R-184",
+    "name": "FastFood Casablanca #184",
+    "city": "Casablanca",
+    "category": "pizza",
+    "latitude": 33.594192,
+    "longitude": -7.599872
+  },
+  {
+    "restaurant_id": "R-185",
+    "name": "FastFood Rabat #185",
+    "city": "Rabat",
+    "category": "sushi",
+    "latitude": 34.050968,
+    "longitude": -6.832369
+  },
+  {
+    "restaurant_id": "R-186",
+    "name": "FastFood Marrakech #186",
+    "city": "Marrakech",
+    "category": "marocain",
+    "latitude": 31.600757,
+    "longitude": -8.001104
+  },
+  {
+    "restaurant_id": "R-187",
+    "name": "FastFood Tanger #187",
+    "city": "Tanger",
+    "category": "burger",
+    "latitude": 35.735877,
+    "longitude": -5.805125
+  },
+  {
+    "restaurant_id": "R-188",
+    "name": "FastFood Casablanca #188",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.575617,
+    "longitude": -7.613302
+  },
+  {
+    "restaurant_id": "R-189",
+    "name": "FastFood Rabat #189",
+    "city": "Rabat",
+    "category": "healthy",
+    "latitude": 34.043323,
+    "longitude": -6.840644
+  },
+  {
+    "restaurant_id": "R-190",
+    "name": "FastFood Marrakech #190",
+    "city": "Marrakech",
+    "category": "burger",
+    "latitude": 31.667094,
+    "longitude": -8.007473
+  },
+  {
+    "restaurant_id": "R-191",
+    "name": "FastFood Tanger #191",
+    "city": "Tanger",
+    "category": "healthy",
+    "latitude": 35.778297,
+    "longitude": -5.816569
+  },
+  {
+    "restaurant_id": "R-192",
+    "name": "FastFood Casablanca #192",
+    "city": "Casablanca",
+    "category": "burger",
+    "latitude": 33.564376,
+    "longitude": -7.568975
+  },
+  {
+    "restaurant_id": "R-193",
+    "name": "FastFood Rabat #193",
+    "city": "Rabat",
+    "category": "pizza",
+    "latitude": 34.037059,
+    "longitude": -6.857862
+  },
+  {
+    "restaurant_id": "R-194",
+    "name": "FastFood Marrakech #194",
+    "city": "Marrakech",
+    "category": "sushi",
+    "latitude": 31.634007,
+    "longitude": -7.981451
+  },
+  {
+    "restaurant_id": "R-195",
+    "name": "FastFood Tanger #195",
+    "city": "Tanger",
+    "category": "sushi",
+    "latitude": 35.749623,
+    "longitude": -5.841793
+  },
+  {
+    "restaurant_id": "R-196",
+    "name": "FastFood Casablanca #196",
+    "city": "Casablanca",
+    "category": "tacos",
+    "latitude": 33.602712,
+    "longitude": -7.576931
+  },
+  {
+    "restaurant_id": "R-197",
+    "name": "FastFood Rabat #197",
+    "city": "Rabat",
+    "category": "marocain",
+    "latitude": 33.992702,
+    "longitude": -6.86238
+  },
+  {
+    "restaurant_id": "R-198",
+    "name": "FastFood Marrakech #198",
+    "city": "Marrakech",
+    "category": "pizza",
+    "latitude": 31.657229,
+    "longitude": -7.983777
+  },
+  {
+    "restaurant_id": "R-199",
+    "name": "FastFood Tanger #199",
+    "city": "Tanger",
+    "category": "pizza",
+    "latitude": 35.755433,
+    "longitude": -5.85796
+  },
+  {
+    "restaurant_id": "R-200",
+    "name": "FastFood Casablanca #200",
+    "city": "Casablanca",
+    "category": "pizza",
+    "latitude": 33.564484,
+    "longitude": -7.591903
+  }
+]
